@@ -1,4 +1,4 @@
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/b38c9ec5-df98-41ab-8316-e701c2e84989" />
+<img width="250" height="250" alt="image" src="https://github.com/spike53k/race-game/blob/main/logotip1.png?raw=true" />
 
 # Thirst For Nitro
 ### Выбери машину, проедь 3 круга и побей свой рекорд.
