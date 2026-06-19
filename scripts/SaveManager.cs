@@ -15,7 +15,7 @@ public class SaveManager : MonoBehaviour
     {
         if (instance != null && instance != this)
         {
-            Destroy(this.gameObject); // Удаляем дубликат
+            Destroy(this.gameObject);
             return;
         }
 
