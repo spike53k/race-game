@@ -43,7 +43,7 @@ public class CarController : MonoBehaviour
         HandleSteering();
         UpdateWheels();
         
-        // 👇 И ЭТУ ПРОВЕРКУ
+        
         if (rb.linearVelocity.magnitude > maxSpeed / 3.6f)
         {
             rb.linearVelocity = rb.linearVelocity.normalized * (maxSpeed / 3.6f);
