@@ -43,7 +43,7 @@ public class LapTimer : MonoBehaviour
     {
         SaveManager.instance.Save();
 
-        yield return new WaitForSeconds(0.2f); // 💡 даём Unity время закрыть сцену
+        yield return new WaitForSeconds(0.2f);
 
         SceneManager.LoadScene("Garage");
     }
